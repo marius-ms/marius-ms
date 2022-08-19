@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @marius-ms
 - 👀 I’m interested in Frontend
-- 🌱 I’m currently learning MERN stacks
+- 🌱 I’m currently learning MERN stack
 - 💞️ I’m looking to collaborate on JavaScript projects
 - 📫 How to reach me:
       Gmail: suiram.ma@gmail.com
